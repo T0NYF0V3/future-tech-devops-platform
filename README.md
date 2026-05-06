@@ -321,6 +321,34 @@ This project is licensed under the MIT License.
 
 ---
 
+---
+
+# AWS Automation Scripts
+
+This repository includes multiple AWS automation scripts using Boto3.
+
+## Features
+
+- EC2 inventory automation
+- S3 bucket discovery
+- DynamoDB CRUD operations
+- AWS infrastructure reporting
+- Dockerized services
+- CI/CD preparation
+- Serverless architecture foundation
+
+## Technologies
+
+- Python
+- Boto3
+- AWS EC2
+- AWS S3
+- AWS DynamoDB
+- Docker
+- GitHub Flow
+
+---
+
 # Author
 
 Developed as part of an intensive DevOps and AWS automation project focused on enterprise infrastructure practices, CI/CD workflows, and cloud-native architectures.
